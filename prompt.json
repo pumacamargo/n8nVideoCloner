@@ -1,6 +1,6 @@
 {
-  "image": "prompt for image",
   "imageBatch": "3",
+  "image": "prompt for image",
   "videoBatch": "1",
   "video": "prompt for video"
 }
