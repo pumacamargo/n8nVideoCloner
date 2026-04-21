@@ -1,6 +1,6 @@
 {
-  "imageBatch": "3",
-  "image": "prompt for image",
+  "imageBatch": "1",
+  "image": "a cute white rabbit on top of a book",
   "videoBatch": "1",
   "video": "prompt for video"
 }
