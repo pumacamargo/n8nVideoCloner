@@ -1,15 +1,9 @@
 first_image: >
-  A close-up, well-lit, highly detailed portrait of a young Japanese woman, mid-shot, gently tracing her right eyebrow with a sleek silver and grey makeup pen. Her skin is clear and smooth, accented with natural, light makeup. She has soft light brown, naturally shaped eyebrows. Her dark brown eyes look slightly downward and to the left, softly focused. Her lips are a natural pink, softly parted. Her dark brown hair is pulled back neatly, revealing her forehead and ears. The background is a blurred, warm beige. The lighting is gentle and even, emphasizing her facial features.
+  Close-up portrait of a young East Asian woman with smooth, light skin, a refined nose, and naturally full lips. Her dark brown eyes gaze slightly downward and to the right, framed by long eyelashes. Her dark brown hair is parted gently to the side. Her right hand, with perfectly manicured nails, holds a slender silver and grey eyebrow pen. The dark brown tip of the pen lightly traces the outer arch of her right eyebrow, defining its shape. The background is a softly blurred, warm beige wall, suggesting an indoor setting illuminated by natural light.
 
 shots: |
-  [INDOOR - DAY] | A young Japanese woman, Aki, with smooth clear skin, natural light makeup, dark brown hair tied back, and soft brown eyes, is shown close-up applying a silver and grey makeup pen to her right eyebrow. | sound: gentle tapping | Close-up, eye-level shot, soft lighting.
+  [INDOOR - DAY] | Mei, a young East Asian woman with fair skin, brown eyes, and dark brown hair, carefully applies silver and grey eyebrow pen makeup to her right eyebrow. | text overlay: [耐水性アイブロウペンシル、汗や油に強い] (Waterproof eyebrow pencil, resistant to sweat and oil) sound: soft Japanese melody | Close-up on Mei's right eye and hand, with natural lighting.
 
-  [INDOOR - DAY] | Aki continues carefully defining her right eyebrow using the makeup pen. | text overlay: [耐水性アイブロウペンシル、汗や皮脂に強い] | Medium close-up, eye-level, soft lighting.
+  [INDOOR - DAY] | Mei uses her left hand to sweep back her dark hair from her right temple, revealing her hairline. She fills in sparse spots along the hairline using the eyebrow pen, as an orange arrow points to the application area. | text overlay: [自然にヘアラインをカバー] (Naturally filling hairline gaps) sound: soft Japanese melody | Close-up on Mei's right temple and hairline, left hand visible, natural lighting.
 
-  [INDOOR - DAY] | Aki lowers the pen while gazing down slightly. | sound: soft melody beyond the window | Close-up, slight downward angle, soft lighting.
-
-  [INDOOR - DAY] | Aki holds the pen and applies it to fill sparse areas along her right hairline near the temple, gently pulling her hair back with her left hand. An orange arrow highlights the target area. | text overlay: [ヘアラインの隙間を自然にカバー] | Medium close-up, slightly higher angle, soft lighting.
-
-  [INDOOR - DAY] | Aki continues filling in her hairline with the pen; the orange arrow remains visible pointing to the application spot. | text overlay: [ヘアラインの隙間を自然にカバー] | Medium close-up, slightly elevated angle, soft lighting.
-
-  [INDOOR - DAY] | Scene transitions to Aki having completed her eyebrow and hairline touch-ups; she faces forward, with a smooth, natural expression. An orange arrow indicates her left eyebrow. | sound: all worries fade away | Close-up, eye-level, soft lighting.
+  [INDOOR - DAY] | Mei gazes calmly into the camera, slightly downward, showing her enhanced eyebrows and hairline. An orange arrow highlights her left eyebrow. | sound: soft Japanese melody | Medium close-up on Mei’s face, slightly wider angle showing both eyes, natural lighting.
