@@ -2,5 +2,7 @@
   "imageBatch": "1",
   "image": "a cute white rabbit on top of a book",
   "videoBatch": "1",
-  "video": "prompt for video"
+  "video": "prompt for video",
+  "ref1": "1",
+  "ref2": "2"
 }
