@@ -1,3 +1,15 @@
-{
-  "output": "first_image: >\n  Close-up of a young Japanese woman, Serina, with fair skin and dark brown eyes, carefully using a silver eyebrow pencil with a brush tip to shape the arch of her right eyebrow. Her dark brown hair is pulled back neatly, and she wears natural light makeup with soft pink lips. The background is a softly blurred, light-toned indoor space, possibly a bathroom or vanity, highlighted by gentle, even lighting.\n\nshots: |\n  [INDOOR - DAY] | Serina, a young Japanese woman with fair skin, dark brown eyes, and dark brown hair, applies a silver eyebrow pencil to define the arch of her right eyebrow. | text overlay: [耐水性アイブロウペンシル、汗と油に強い] sound: music: 'Rain softly tapping, gentle drops' | Medium close-up, with soft front illumination.\n\n  [INDOOR - DAY] | Serina continues to carefully fill in her right eyebrow using the pencil. | text overlay: [耐水性アイブロウペンシル、汗と油に強い] sound: music: 'Rain softly tapping, gentle drops' | Medium close-up, soft front lighting.\n\n  [INDOOR - DAY] | Serina gently fills in sparse spots near her right temple hairline with the eyebrow pencil, holding back hair with her left hand. | text overlay: [髪の生え際を自然にカバー] sound: music: 'A small melody beyond the window' | Close-up, slight overhead angle, soft natural light."
-}
+first_image: >
+  A close-up, well-lit, highly detailed portrait of a young Japanese woman, mid-shot, gently tracing her right eyebrow with a sleek silver and grey makeup pen. Her skin is clear and smooth, accented with natural, light makeup. She has soft light brown, naturally shaped eyebrows. Her dark brown eyes look slightly downward and to the left, softly focused. Her lips are a natural pink, softly parted. Her dark brown hair is pulled back neatly, revealing her forehead and ears. The background is a blurred, warm beige. The lighting is gentle and even, emphasizing her facial features.
+
+shots: |
+  [INDOOR - DAY] | A young Japanese woman, Aki, with smooth clear skin, natural light makeup, dark brown hair tied back, and soft brown eyes, is shown close-up applying a silver and grey makeup pen to her right eyebrow. | sound: gentle tapping | Close-up, eye-level shot, soft lighting.
+
+  [INDOOR - DAY] | Aki continues carefully defining her right eyebrow using the makeup pen. | text overlay: [耐水性アイブロウペンシル、汗や皮脂に強い] | Medium close-up, eye-level, soft lighting.
+
+  [INDOOR - DAY] | Aki lowers the pen while gazing down slightly. | sound: soft melody beyond the window | Close-up, slight downward angle, soft lighting.
+
+  [INDOOR - DAY] | Aki holds the pen and applies it to fill sparse areas along her right hairline near the temple, gently pulling her hair back with her left hand. An orange arrow highlights the target area. | text overlay: [ヘアラインの隙間を自然にカバー] | Medium close-up, slightly higher angle, soft lighting.
+
+  [INDOOR - DAY] | Aki continues filling in her hairline with the pen; the orange arrow remains visible pointing to the application spot. | text overlay: [ヘアラインの隙間を自然にカバー] | Medium close-up, slightly elevated angle, soft lighting.
+
+  [INDOOR - DAY] | Scene transitions to Aki having completed her eyebrow and hairline touch-ups; she faces forward, with a smooth, natural expression. An orange arrow indicates her left eyebrow. | sound: all worries fade away | Close-up, eye-level, soft lighting.
