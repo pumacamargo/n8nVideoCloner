@@ -1,14 +1,6 @@
 {
-"scene_1": {
-"visual_plan": "Start with a medium close-up, tripod-stabilized shot of the model indoors with soft natural lighting, shallow depth of field focusing on the model's face and upper torso. The product is introduced in the model’s right hand, visible near her chest as she squeezes it lightly. Gentle slow camera push-in, natural hand gestures, subtle handheld motion to enhance realism. Cut to a slightly wider medium shot as she finishes the first lines, still holding the product steadily to establish presence and calm mood.",
-"dialogue": "The truth about how I actually got started in discovering calm: One thing I’ll never do again is underestimate the calming power of a simple toy. I was feeling super stressed lately and honestly just wanted something to fidget with that wasn’t annoying or distracting."
-},
-"scene_2": {
-"visual_plan": "Switch to a steady medium shot with the model sitting more relaxed, product now in both hands resting on her lap, softly blurred background with natural outdoor light. Camera slowly zooms in to keep engagement as she expresses discovery and satisfaction. Slight handheld motion maintains intimacy. Product is squeezed gently during 'surprisingly satisfying to squeeze' portion, emphasizing tactile experience. Cut cleanly between slight angle shifts emphasizing the model and the squishy toy interaction.",
-"dialogue": "And that’s when I accidentally discovered this squishy toy that looks like a desert. It’s surprisingly satisfying to squeeze—it’s soft, slow to bounce back, and honestly, it kind of melts the tension away."
-},
-"scene_3": {
-"visual_plan": "Close-up, tripod shot focused tightly on the model’s hands and face, soft shallow depth of field with warm natural light highlighting textures of the squishy toy. The product is firmly held in both hands throughout, occasionally brought closer to the camera for emphasis. Subtle slow pans following hand movements and slight shifts in eye contact add energy without artificiality. The scene ends with the model smiling gently as the camera holds a steady frame of the product held near the face.",
-"dialogue": "I didn’t realize how much I needed something like this until I tried it, and now I take it everywhere. If you’ve ever tried stress balls that just didn’t work for you, this might be the easiest way to finally stay relaxed when life gets hectic."
-}
+  "scene_1": {
+    "visual_plan": "Start with a medium shot of the model sitting in a cozy, softly lit room to establish a relaxed vibe; camera is on a tripod with a slow, gentle push-in as the model begins speaking. Cut to a close-up when transitioning to the product description, with a shallow depth of field focusing on the model’s face, blurring the background. The model holds the product in the right hand, softly squeezing it several times while speaking, with occasional cuts to a close-up of the product being gently squished to emphasize texture and bounce. The handheld motion is subtle during these product close-ups to keep natural realism. Final cut back to a medium shot with the product visible near the model’s face, reinforcing intimacy before ending.",
+    "dialogue": "『ストレスがたまっているなら、これを試してみてください。』 一つだけ絶対にもうしないことは、シンプルなおもちゃの落ち着かせる力を過小評価することです。最近すごくストレスを感じていて、正直言って、イライラさせたり気を散らすことのない何かを弄りたかったんです。そうして偶然、この砂漠のような見た目のスクイッシュトイを発見しました。それは驚くほど気持ちよく握ることができて、柔らかくて、ゆっくり元に戻り、正直、緊張感を溶かしてしまうんです。これがどれほど必要だったのか、自分でも気づいていなかったのに試してみてわかりました。今ではどこにでも持ち歩いています。ストレスボールを試してもうまくいかなかったことがあるなら、これは人生が慌ただしくなるときにリラックスを保つ、最も簡単な方法かもしれません。"
+  }
 }
